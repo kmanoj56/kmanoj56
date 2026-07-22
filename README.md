@@ -15,10 +15,7 @@
 - OOP in Python
 
 ## 📂 Projects
-- Python Mini Projects
-- Student Management System
-- Calculator App
-- Number Guessing Game
+- Daily task management application
 
 ## 📫 Connect with Me
 - Email: kmanoj56461@gmail.com
