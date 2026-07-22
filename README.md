@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi I'm Manoj Kumar
 
-<!--
-**kmanoj56/kmanoj56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 I am a recent graduate.
+- 🌱 I am currently learning Python, SQL, and Git/GitHub.
+- 💻 I am interested in Python Development and Software Engineering.
+- 🚀 I am looking for an entry-level Python Developer opportunity.
+- 📚 I enjoy learning new technologies and improving my coding skills.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- SQL
+- Git & GitHub
+- HTML (Basics)
+- OOP in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Python Mini Projects
+- Student Management System
+- Calculator App
+- Number Guessing Game
+
+## 📫 Connect with Me
+- Email: kmanoj56461@gmail.com
+- LinkedIn: manoj-kumar-2728083a9
+
+## ⚡ Fun Fact
+I enjoy solving Python coding problems and learning something new every day.
